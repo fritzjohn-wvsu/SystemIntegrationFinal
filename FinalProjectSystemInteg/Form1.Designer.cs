@@ -120,7 +120,7 @@
             Controls.Add(label3);
             Name = "Form1";
             Text = "A";
-            WindowState = FormWindowState.Maximized;
+            WindowState = FormWindowState.Minimized;
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);

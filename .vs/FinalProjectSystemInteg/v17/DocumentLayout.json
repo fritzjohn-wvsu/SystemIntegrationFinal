@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|c:\\users\\user\\source\\repos\\finalprojectsysteminteg\\finalprojectsysteminteg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|solutionrelative:finalprojectsysteminteg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|c:\\users\\user\\source\\repos\\finalprojectsysteminteg\\finalprojectsysteminteg\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|solutionrelative:finalprojectsysteminteg\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\finalprojectsysteminteg\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|solutionrelative:finalprojectsysteminteg\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|c:\\users\\user\\source\\repos\\finalprojectsysteminteg\\finalprojectsysteminteg\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|solutionrelative:finalprojectsysteminteg\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\finalprojectsysteminteg\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|solutionrelative:finalprojectsysteminteg\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|c:\\users\\user\\source\\repos\\finalprojectsysteminteg\\finalprojectsysteminteg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|solutionrelative:finalprojectsysteminteg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|c:\\users\\user\\source\\repos\\finalprojectsysteminteg\\finalprojectsysteminteg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\finalprojectsysteminteg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|solutionrelative:finalprojectsysteminteg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|c:\\users\\user\\source\\repos\\finalprojectsysteminteg\\finalprojectsysteminteg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|solutionrelative:finalprojectsysteminteg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\finalprojectsysteminteg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{730F7C1E-B2D9-4702-818B-32CE1124BF60}|FinalProjectSystemInteg\\FinalProjectSystemInteg.csproj|solutionrelative:finalprojectsysteminteg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +50,99 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form4.cs",
+              "RelativeDocumentMoniker": "FinalProjectSystemInteg\\Form4.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form4.cs",
+              "RelativeToolTip": "FinalProjectSystemInteg\\Form4.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:05:08.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form4.cs",
+              "RelativeDocumentMoniker": "FinalProjectSystemInteg\\Form4.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form4.cs [Design]",
+              "RelativeToolTip": "FinalProjectSystemInteg\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:01:40.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form3.cs",
+              "RelativeDocumentMoniker": "FinalProjectSystemInteg\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form3.cs",
+              "RelativeToolTip": "FinalProjectSystemInteg\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:12:48.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form3.cs",
+              "RelativeDocumentMoniker": "FinalProjectSystemInteg\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form3.cs [Design]",
+              "RelativeToolTip": "FinalProjectSystemInteg\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:12:46.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form2.cs",
               "RelativeDocumentMoniker": "FinalProjectSystemInteg\\Form2.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form2.cs",
               "RelativeToolTip": "FinalProjectSystemInteg\\Form2.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:27:21.9Z",
+              "WhenOpened": "2024-12-23T04:31:27.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form2.cs",
               "RelativeDocumentMoniker": "FinalProjectSystemInteg\\Form2.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form2.cs [Design]",
               "RelativeToolTip": "FinalProjectSystemInteg\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:27:00.771Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-21T18:27:00.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form1.cs",
               "RelativeDocumentMoniker": "FinalProjectSystemInteg\\Form1.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form1.cs",
               "RelativeToolTip": "FinalProjectSystemInteg\\Form1.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA9wDcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T12:25:02.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form1.cs",
               "RelativeDocumentMoniker": "FinalProjectSystemInteg\\Form1.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\FinalProjectSystemInteg\\FinalProjectSystemInteg\\Form1.cs [Design]",
               "RelativeToolTip": "FinalProjectSystemInteg\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:05:05.174Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-17T02:05:05.174Z"
             }
           ]
         }
