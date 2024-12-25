@@ -18,6 +18,8 @@ namespace FinalProjectSystemInteg
             InitializeComponent();
         }
 
+       
+
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -65,9 +67,11 @@ namespace FinalProjectSystemInteg
 
                         if (result > 0)
                         {
-                            // If credentials are correct, show Form3
-                            Form3 form3 = new Form3();
-                            form3.Show();
+                           
+
+                            // If credentials are correct, show Form5
+                            Form5 form5 = new Form5();
+                            form5.Show();
                             this.Hide();
                         }
                         else
@@ -97,6 +101,16 @@ namespace FinalProjectSystemInteg
                 // Hide password
                 Password.PasswordChar = '*'; // '*' masks the password
             }
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

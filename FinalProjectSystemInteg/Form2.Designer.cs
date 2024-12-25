@@ -35,13 +35,15 @@
             Password = new TextBox();
             Login = new Button();
             ShowPass = new CheckBox();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(330, 58);
+            label1.Location = new Point(329, 70);
             label1.Name = "label1";
             label1.Size = new Size(124, 46);
             label1.TabIndex = 0;
@@ -106,10 +108,22 @@
             ShowPass.UseVisualStyleBackColor = true;
             ShowPass.CheckedChanged += checkBox1_CheckedChanged;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = Properties.Resources.Floratech;
+            pictureBox1.Location = new Point(333, 1);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(115, 92);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 7;
+            pictureBox1.TabStop = false;
+            pictureBox1.Click += pictureBox1_Click;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.LavenderBlush;
             ClientSize = new Size(800, 473);
             Controls.Add(ShowPass);
             Controls.Add(Login);
@@ -118,8 +132,11 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
+            Controls.Add(pictureBox1);
             Name = "Form2";
             Text = "Form2";
+            Load += Form2_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -133,5 +150,6 @@
         private TextBox Password;
         private Button Login;
         private CheckBox ShowPass;
+        private PictureBox pictureBox1;
     }
 }

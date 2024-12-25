@@ -37,6 +37,8 @@
             label3 = new Label();
             label4 = new Label();
             pictureBox1 = new PictureBox();
+            Price = new TextBox();
+            label5 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -44,7 +46,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI Semibold", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(275, 44);
+            label1.Location = new Point(275, 35);
             label1.Name = "label1";
             label1.Size = new Size(213, 46);
             label1.TabIndex = 0;
@@ -52,7 +54,7 @@
             // 
             // productName
             // 
-            productName.Location = new Point(219, 146);
+            productName.Location = new Point(219, 126);
             productName.Name = "productName";
             productName.Size = new Size(323, 27);
             productName.TabIndex = 1;
@@ -60,7 +62,7 @@
             // 
             // stockQuantity
             // 
-            stockQuantity.Location = new Point(219, 284);
+            stockQuantity.Location = new Point(219, 264);
             stockQuantity.Name = "stockQuantity";
             stockQuantity.Size = new Size(323, 27);
             stockQuantity.TabIndex = 2;
@@ -68,7 +70,7 @@
             // 
             // Save
             // 
-            Save.Location = new Point(219, 337);
+            Save.Location = new Point(219, 369);
             Save.Name = "Save";
             Save.Size = new Size(94, 29);
             Save.TabIndex = 3;
@@ -80,7 +82,7 @@
             // 
             category.FormattingEnabled = true;
             category.Items.AddRange(new object[] { "Fresh Flowers", "Artificial Flowers" });
-            category.Location = new Point(219, 215);
+            category.Location = new Point(219, 195);
             category.Name = "category";
             category.Size = new Size(323, 28);
             category.TabIndex = 4;
@@ -89,7 +91,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(218, 120);
+            label2.Location = new Point(218, 100);
             label2.Name = "label2";
             label2.Size = new Size(111, 20);
             label2.TabIndex = 5;
@@ -98,7 +100,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(218, 190);
+            label3.Location = new Point(218, 170);
             label3.Name = "label3";
             label3.Size = new Size(76, 20);
             label3.TabIndex = 6;
@@ -107,7 +109,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(219, 261);
+            label4.Location = new Point(219, 241);
             label4.Name = "label4";
             label4.Size = new Size(112, 20);
             label4.TabIndex = 7;
@@ -124,11 +126,31 @@
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;
             // 
+            // Price
+            // 
+            Price.Location = new Point(218, 327);
+            Price.Name = "Price";
+            Price.Size = new Size(323, 27);
+            Price.TabIndex = 9;
+            Price.TextChanged += Price_TextChanged;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(219, 299);
+            label5.Name = "label5";
+            label5.Size = new Size(48, 20);
+            label5.TabIndex = 10;
+            label5.Text = "Price: ";
+            // 
             // Form4
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.LavenderBlush;
             ClientSize = new Size(800, 450);
+            Controls.Add(label5);
+            Controls.Add(Price);
             Controls.Add(pictureBox1);
             Controls.Add(label4);
             Controls.Add(label3);
@@ -157,5 +179,7 @@
         private Label label3;
         private Label label4;
         private PictureBox pictureBox1;
+        private TextBox Price;
+        private Label label5;
     }
 }

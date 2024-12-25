@@ -30,3 +30,8 @@ C:\Users\User\source\repos\FinalProjectSystemInteg\FinalProjectSystemInteg\obj\D
 C:\Users\User\source\repos\FinalProjectSystemInteg\FinalProjectSystemInteg\obj\Debug\net8.0-windows\FinalProjectSystemInteg.Form3.resources
 C:\Users\User\source\repos\FinalProjectSystemInteg\FinalProjectSystemInteg\obj\Debug\net8.0-windows\FinalPro.DF6562C0.Up2Date
 C:\Users\User\source\repos\FinalProjectSystemInteg\FinalProjectSystemInteg\obj\Debug\net8.0-windows\FinalProjectSystemInteg.Form4.resources
+C:\Users\User\source\repos\FinalProjectSystemInteg\FinalProjectSystemInteg\obj\Debug\net8.0-windows\FinalProjectSystemInteg.Form5.resources
+C:\Users\User\source\repos\FinalProjectSystemInteg\FinalProjectSystemInteg\obj\Debug\net8.0-windows\FinalProjectSystemInteg.Form6.resources
+C:\Users\User\source\repos\FinalProjectSystemInteg\FinalProjectSystemInteg\obj\Debug\net8.0-windows\FinalProjectSystemInteg.Form7.resources
+C:\Users\User\source\repos\FinalProjectSystemInteg\FinalProjectSystemInteg\obj\Debug\net8.0-windows\FinalProjectSystemInteg.Form8.resources
+C:\Users\User\source\repos\FinalProjectSystemInteg\FinalProjectSystemInteg\obj\Debug\net8.0-windows\FinalProjectSystemInteg.Form9.resources

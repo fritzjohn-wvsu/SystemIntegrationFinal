@@ -29,12 +29,13 @@
         private void InitializeComponent()
         {
             label3 = new Label();
-            pictureBox1 = new PictureBox();
-            splitter1 = new Splitter();
             button1 = new Button();
             label4 = new Label();
+            pictureBox2 = new PictureBox();
             label1 = new Label();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            pictureBox3 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             SuspendLayout();
             // 
             // label3
@@ -47,35 +48,14 @@
             label3.TabIndex = 2;
             label3.Click += label3_Click;
             // 
-            // pictureBox1
-            // 
-            pictureBox1.Image = Properties.Resources.Flowershop1;
-            pictureBox1.Location = new Point(389, 51);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(390, 355);
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox1.TabIndex = 5;
-            pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
-            pictureBox1.Paint += pictureBox1_Paint;
-            // 
-            // splitter1
-            // 
-            splitter1.BackColor = Color.DarkGreen;
-            splitter1.Location = new Point(0, 0);
-            splitter1.Name = "splitter1";
-            splitter1.Size = new Size(367, 450);
-            splitter1.TabIndex = 6;
-            splitter1.TabStop = false;
-            // 
             // button1
             // 
-            button1.BackColor = SystemColors.ButtonHighlight;
-            button1.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.ForeColor = Color.DarkGreen;
-            button1.Location = new Point(52, 305);
+            button1.BackColor = Color.Pink;
+            button1.Font = new Font("Segoe UI", 7.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.ForeColor = Color.LavenderBlush;
+            button1.Location = new Point(37, 292);
             button1.Name = "button1";
-            button1.Size = new Size(150, 40);
+            button1.Size = new Size(176, 40);
             button1.TabIndex = 9;
             button1.Text = "Start";
             button1.UseVisualStyleBackColor = false;
@@ -84,55 +64,77 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.BackColor = Color.DarkGreen;
-            label4.Font = new Font("Segoe UI", 20F);
-            label4.ForeColor = SystemColors.ButtonHighlight;
-            label4.Location = new Point(40, 155);
+            label4.BackColor = Color.LavenderBlush;
+            label4.Font = new Font("Segoe UI Semilight", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label4.ForeColor = Color.Black;
+            label4.Location = new Point(36, 194);
             label4.Name = "label4";
-            label4.Size = new Size(206, 46);
+            label4.Size = new Size(287, 40);
             label4.TabIndex = 8;
-            label4.Text = "Flower Shop";
+            label4.Text = "\"Bloom with Ease: Simplify Flower Shop \r\nManagement and Delight Your Customers\"";
             label4.Click += label4_Click;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.BackColor = Color.White;
+            pictureBox2.Image = Properties.Resources.Floratech;
+            pictureBox2.Location = new Point(342, -9);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(460, 464);
+            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox2.TabIndex = 11;
+            pictureBox2.TabStop = false;
+            pictureBox2.Click += pictureBox2_Click;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.BackColor = Color.DarkGreen;
-            label1.Font = new Font("Tahoma", 30F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = SystemColors.ButtonHighlight;
-            label1.Location = new Point(33, 64);
+            label1.BackColor = Color.LavenderBlush;
+            label1.Font = new Font("Segoe UI Semibold", 20F, FontStyle.Bold);
+            label1.ForeColor = Color.Black;
+            label1.Location = new Point(37, 98);
             label1.Name = "label1";
-            label1.Size = new Size(271, 60);
-            label1.TabIndex = 7;
-            label1.Text = "Welcome ";
-            label1.Click += label1_Click_1;
+            label1.Size = new Size(163, 46);
+            label1.TabIndex = 12;
+            label1.Text = "Welcome";
+            // 
+            // pictureBox3
+            // 
+            pictureBox3.BackColor = Color.White;
+            pictureBox3.Location = new Point(342, -9);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(455, 464);
+            pictureBox3.TabIndex = 14;
+            pictureBox3.TabStop = false;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.LavenderBlush;
             ClientSize = new Size(800, 450);
+            Controls.Add(label1);
             Controls.Add(button1);
             Controls.Add(label4);
-            Controls.Add(label1);
-            Controls.Add(splitter1);
-            Controls.Add(pictureBox1);
             Controls.Add(label3);
+            Controls.Add(pictureBox2);
+            Controls.Add(pictureBox3);
             Name = "Form1";
             Text = "A";
             WindowState = FormWindowState.Minimized;
             Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
         private Label label3;
-        private PictureBox pictureBox1;
-        private Splitter splitter1;
         private Button button1;
         private Label label4;
+        private PictureBox pictureBox2;
         private Label label1;
+        private PictureBox pictureBox3;
     }
 }
